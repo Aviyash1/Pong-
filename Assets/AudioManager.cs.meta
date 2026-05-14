@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 299b909d7092cc145936f213ba217b71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sfxSource: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  - paddleHit: {fileID: 8300000, guid: ec7fdb805b366254c98195e8efc73618, type: 3}
+  - wallHit: {fileID: 8300000, guid: 32c07d5120c87f84498a6268734df716, type: 3}
+  - winP1: {fileID: 8300000, guid: 55ac19376e670d545976f0759b3c36f7, type: 3}
+  - winP2: {fileID: 8300000, guid: 676235a4cf7495a4a93a2e363fac3946, type: 3}
+  - bgm: {fileID: 8300000, guid: 25fa6350d102f8445a8b6fa25f784a29, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
